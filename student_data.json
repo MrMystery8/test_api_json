@@ -1,23 +1,5 @@
 [
-  {
-  "STUDENT_FULLNAME": "NURUL HANA BINTI ZAMRI",
-  "STUDENT_IDENT": "TP065069",
-  "PASSPORT_NO": "021108-10-6234",
-  "NATIONALITY_NAME": "Malaysian",
-  "COURSE_NAME": "BSc (Hons) in Software Engineering",
-  "ORGANIZATION_NAME": "Asia Pacific University of Technology & Innovation",
-  "INTAKE_CODE": "UC2F2309CSSE",
-  "CURRENT_LEVEL": "Undergraduate Degree",
-  "START_DATE": "15-Sep-2023",
-  "DURATION": "3 Years",
-  "STUDENT_STATUS": "ACTIVE",
-  "SCHOLARSHIP": "No",
-  "EXPECTED_COMPLETION_DATE": "15/09/2026",
-  "visa_valid_status": "Yes",
-  "outstanding_status": "No",
-  "expected_end_date": "SEP 2026",
-  "INSTITUTE_NAME": "APIIT"
-},
+
   {
   "STUDENT_FULLNAME": "MUHAMMAD DANISH BIN RAZALI",
   "STUDENT_IDENT": "TP065068",
